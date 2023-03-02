@@ -1,0 +1,5 @@
+<svg id="access-time" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path d="M0,0H24V24H0Z" fill="none"/>
+  <path d="M11.99,3.5A8.5,8.5,0,1,0,20.5,12a8.5,8.5,0,0,0-8.51-8.5m0-1.5A10,10,0,1,1,2,12,10.006,10.006,0,0,1,11.99,2Z" transform="translate(0 2)"/>
+  <path d="M12.5,7H11v6l5.25,3.15L17,14.92l-4.5-2.67Z" transform="translate(0 2)"/>
+</svg>
